@@ -42,6 +42,7 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
+import iasol from './company/iasol-logo.png';
 
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
@@ -49,6 +50,8 @@ import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
+import smiggle from './projects/smiggle.png';
+import principalbooks from './projects/principal-books.png';
 
 export {
   bwmap,
@@ -96,4 +99,7 @@ export {
   dcc,
   kelhel,
   microverse,
+  iasol,
+  smiggle,
+  principalbooks,
 };
